@@ -1,0 +1,8 @@
+{
+  "name": "Professional Email Transformer",
+  "description": "Transform rough voice notes into polished, professional emails using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
